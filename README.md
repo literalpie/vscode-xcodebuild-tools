@@ -9,7 +9,7 @@ Feedback is highy appreciated! Let me know if this works for you? Are there any 
 ## Caveats
 
 * First release, my first non-trivial TypeScript/JavaScript program - expect bugs, problems, and non-idiomatic code.
-* Only useful for macOS apps at this point.
+* Minimal support for iOS apps.
 * Managing the project (adding files, changing settings, etc.) has to be done using Xcode itself.
 
 ## Features
